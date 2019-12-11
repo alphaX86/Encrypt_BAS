@@ -9,7 +9,6 @@ There is also an app called '**Crypto**' which is available in Play store(for Ap
 
 Link for **Crypto** is given below:
 
-Play Store:*[](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto&hl=en)*
-APP Store:*<NOT KNOWN>*
+*[Play Store:](https://play.google.com/store/apps/details?id=com.kokoschka.michael.crypto&hl=en)*
 
 ***Note:Crypto doesn't provide info about all cipher techniques, it just provides tools..***
